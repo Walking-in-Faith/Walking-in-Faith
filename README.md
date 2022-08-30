@@ -27,6 +27,16 @@
 
 
 
+📋&nbsp;&nbsp;**EXPERTISE AND CORE COMPETENCIES**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Active Listening:** Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Complex Problem Solving:** Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Critical Thinking:** Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Multitasking:** Juggle multiple tasks and responsibilities while remaining composed and meeting deadlines. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Relationship Management:** Conflict resolution, motivating, organizing, troubleshooting and establishing rapport. <br>
+
+
+
+
 📋&nbsp;&nbsp;**GENERAL SKILLS & ABILITIES:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Possesses a positive, energetic and professional attitude <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Achieving goals, creative/strategic thinking and problem solving <br>
