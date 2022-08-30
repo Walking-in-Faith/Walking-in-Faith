@@ -6,7 +6,7 @@
 
 
 📜&nbsp;&nbsp;**MY TECHNICAL SKILLS:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ T-SQL/MS SQL, PL/SQL/Oracle/MySQL, C/C++, Perl/Tk, IIS/Apache, Microsoft SQL Server> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ T-SQL/MS SQL, PL/SQL/Oracle/MySQL, C/C++, Perl/Tk, IIS/Apache, Microsoft SQL Server <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL Server Management Studio <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL Server Reporting Services <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL Integration Services <br>
