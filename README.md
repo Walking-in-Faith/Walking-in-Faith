@@ -12,11 +12,12 @@ Personable, tenacious, energetic and versatile professional with years of experi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walking-in-Faith)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Walking-in-Faith&show_icons=true&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Walking-in-Faith)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Walking-in-Faith&show_icons=true&count_private=true)  
 
 
 ![GitHub metrics](https://metrics.lecoq.io/Walking-in-Faith) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Walking-in-Faith)  
+  
 
