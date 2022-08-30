@@ -79,8 +79,6 @@
 
 
 
-
-<br><br>
 **📪&nbsp;&nbsp; HOW TO REACH ME:**<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Facebook: **[kbabeshkov](https://www.facebook.com/kbabeshkov)<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linkedin: **[kbabeshkov](https://www.linkedin.com/in/kbabeshkov/)<br>**
