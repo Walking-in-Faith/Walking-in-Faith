@@ -26,7 +26,11 @@
 
 
 📋&nbsp;&nbsp;**GENERAL SKILLS & ABILITIES:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ •	Possesses a positive, energetic and professional attitude <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Possesses a positive, energetic and professional attitude <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Achieving goals, creative/strategic thinking and problem solving <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Demonstrated ability to work and perform at the highest standards in complex and demanding environments <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Excellent ethics, hardworking, focus minded and sound organizational ability <br>
+
 
 
 
