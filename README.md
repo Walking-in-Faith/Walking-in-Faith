@@ -25,6 +25,12 @@
 
 
 
+📋&nbsp;&nbsp;**GENERAL SKILLS & ABILITIES:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ •	Possesses a positive, energetic and professional attitude <br>
+
+
+
+
 
 
 
