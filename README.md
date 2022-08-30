@@ -5,6 +5,26 @@
 #### Excellent team player and self-starter with good ability to work independently and possess good analytical, problem solving and logical skills. Ability to collaborate with peers in both business and technical areas to deliver optimal business process solutions in line with corporate priorities. Strong experience in interacting with stakeholders/clients, gathering requirements through interviews, workshop, and existing system documentation or procedures, defining business processes, identifying and analyzing risks using appropriate analysis tools. Well-versed in creating new data collection systems that optimize data management, capturing, delivery, and quality. Display an outstanding ability to plan, operate, multitask, organize, coordinate, and implement practices and procedures to bring significant improvements in processes towards the successful attainment of goals.
 
 
+📜&nbsp;&nbsp;**MY TECHNICAL SKILLS:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ T-SQL/MS SQL, PL/SQL/Oracle/MySQL, C/C++, Perl/Tk, IIS/Apache, Microsoft SQL Server> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL Server Management Studio <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL Server Reporting Services <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL Integration Services <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ GPO/AD/DNS <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Power BI <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Tableau <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ QuickSight <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Redshift <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ PostgreSQL <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SharePoint <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Python <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Unix Shell Script <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SaaS, PaaS, IaaS <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Google Enterprise/G Suite <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Office 365, SSH & VPN <br>
+
+
+
 
 
 
