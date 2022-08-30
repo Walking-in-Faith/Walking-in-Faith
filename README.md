@@ -8,6 +8,7 @@
 <br>
 
 
+
 📜&nbsp;&nbsp;**MY TECHNICAL SKILLS:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ T-SQL/MS SQL, PL/SQL/Oracle/MySQL, C/C++, Perl/Tk, IIS/Apache, Microsoft SQL Server <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL Server Management Studio <br>
@@ -25,6 +26,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SaaS, PaaS, IaaS <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Google Enterprise/G Suite <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Office 365, SSH & VPN <br>
+<br>
+
 
 
 
@@ -34,6 +37,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Critical Thinking:** Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Multitasking:** Juggle multiple tasks and responsibilities while remaining composed and meeting deadlines. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Relationship Management:** Conflict resolution, motivating, organizing, troubleshooting and establishing rapport. <br>
+<br>
 
 
 
@@ -43,6 +47,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Achieving goals, creative/strategic thinking and problem solving <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Demonstrated ability to work and perform at the highest standards in complex and demanding environments <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Excellent ethics, hardworking, focus minded and sound organizational ability <br>
+<br>
+
 
 
 
@@ -60,6 +66,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	CCSA (Check Point Certified Security Administrator)  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Security + (CompTIA)  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	A+ (CompTIA)  <br>
+<br>
+
+
 
 
 📚&nbsp;&nbsp;**MY EDUCATION:**<br>
@@ -67,14 +76,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     🏫  Institute of Computer Technology, Los Angeles, CA .<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     🎡  Dean's List: 3.8 GPA <br>
 <br>
-
-
-
-
-
-
-
-
 
 
 
