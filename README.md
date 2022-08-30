@@ -49,6 +49,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	A+ (CompTIA)  <br>
 
 
+📚&nbsp;&nbsp;**MY EDUCATION:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘2003: Bachelor of Science, Computer Science , Institute of Computer Technology, Los Angeles, CA <br> Dean's List: 3.8 GPA <br>
+<br><br>
+
+
 
 
 
