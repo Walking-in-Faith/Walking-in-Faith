@@ -51,8 +51,8 @@
 
 📚&nbsp;&nbsp;**MY EDUCATION:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘2003: Bachelor of Science, Computer Science , <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute of Computer Technology, Los Angeles, CA .<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dean's List: 3.8 GPA <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         Institute of Computer Technology, Los Angeles, CA .<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         Dean's List: 3.8 GPA <br>
 <br>
 
 
