@@ -31,9 +31,7 @@
 
 
 
-
-
-📜&nbsp;&nbsp;**CORE COMPETENCIES:**<br>
+⭐&nbsp;&nbsp;**CORE COMPETENCIES:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Project Management <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Application Optimization <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Operational Frameworks <br>
@@ -69,7 +67,7 @@
 
 
 
-📋&nbsp;&nbsp;**EXPERTISE AND CORE COMPETENCIES**<br>
+💠&nbsp;&nbsp;**EXPERTISE AND CORE COMPETENCIES**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Active Listening:** Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Complex Problem Solving:** Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Critical Thinking:** Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. <br>
@@ -80,19 +78,8 @@
 
 
 
-📋&nbsp;&nbsp;**GENERAL SKILLS & ABILITIES:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Possesses a positive, energetic and professional attitude <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Achieving goals, creative/strategic thinking and problem solving <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Demonstrated ability to work and perform at the highest standards in complex and demanding environments <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Excellent ethics, hardworking, focus minded and sound organizational ability <br>
-<br>
-
-
-
-
-
-📋&nbsp;&nbsp;**SELECTED EXPERIENCE:**<br>
-**APPLICATIONS & DATA SUPPORT ANALYST | LACMA, LOS ANGELES, CA | DECEMBER 2006 - PRESENT |<br>**
+🔯&nbsp;&nbsp;**SELECTED EXPERIENCE:**<br>
+**▶APPLICATIONS & DATA SUPPORT ANALYST | LACMA, LOS ANGELES, CA | DECEMBER 2006 - PRESENT |<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Manage all stages of the software development lifecycle, including requirements gathering, development, implementation, maintenance, and support. Work closely with business stakeholders, leadership team and technology team to define all aspects of the technical product and provide regularly updates on the project  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Troubleshoot software and applications for all databases and applications, including the Financial Edge, the Raisers Edge, ADP, Enterprise, Retail Pro, Erply, Shopify, MultyMimsy, TMS Collections Management System, Unicorn, Tessitura, OCLC Connexion, Archivist Tools, Crystal Reports, Oracle, Microsoft SQL, SQL Server Reporting Services, SQL Integration Services, and SQL Server Management Studio  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Provide technical leadership or supervision for work involving complicated operating systems and related software, hardware, and servers, such as mainframes or mid-range servers supporting crucial applications in a high-availability environment  <br>
@@ -109,7 +96,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Act as a subject-matter expert for the network communication systems and security administration.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Consistently praised for the capacity to handle conflicting priorities under time constraints  <br>
 
-**INFORMATION SYSTEMS MANAGER | ICT COLLEGE, LOS ANGELES, CA | OCTOBER 2003 – DECEMBER 2006 |<br>**
+**▶INFORMATION SYSTEMS MANAGER | ICT COLLEGE, LOS ANGELES, CA | OCTOBER 2003 – DECEMBER 2006 |<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Managed servers for applications including as DNS, DHCP, SQL, IIS, Apache, proxy servers, Terminal Services, Active Directory, Exchange, Oracle, maintained firewalls, switches, and routers  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Trained new hires on the functionality and use of software programs <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Managed backups and installations; developed new systems or repaired existing ones as necessary <br>
@@ -120,7 +107,15 @@
 
 
 
-📋&nbsp;&nbsp;**PROFESSIONAL CERTIFICATIONS**<br>
+📚&nbsp;&nbsp;**MY EDUCATION:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘2003: Bachelor of Science, Computer Science , <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     🏫  Institute of Computer Technology, Los Angeles, CA .<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     🎡  Dean's List: 3.8 GPA <br>
+<br>
+
+
+
+🎡&nbsp;&nbsp;**PROFESSIONAL CERTIFICATIONS**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• CEH (Certified Ethical Hacker) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	CND (Certified Network Defender) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	CHFI (Computer Hacking Forensic Investigator) <br>
@@ -139,13 +134,12 @@
 
 
 
-📚&nbsp;&nbsp;**MY EDUCATION:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘2003: Bachelor of Science, Computer Science , <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     🏫  Institute of Computer Technology, Los Angeles, CA .<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     🎡  Dean's List: 3.8 GPA <br>
+💥&nbsp;&nbsp;**GENERAL SKILLS & ABILITIES:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Possesses a positive, energetic and professional attitude <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Achieving goals, creative/strategic thinking and problem solving <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Demonstrated ability to work and perform at the highest standards in complex and demanding environments <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◾ Excellent ethics, hardworking, focus minded and sound organizational ability <br>
 <br>
-
-
 
 
 
