@@ -54,7 +54,7 @@
 
 
 📋&nbsp;&nbsp;**SELECTED EXPERIENCE:**<br>
-**APPLICATIONS & DATA SUPPORT ANALYST | LACMA, LOS ANGELES, CA | DECEMBER 2006 - PRESENT |**
+**APPLICATIONS & DATA SUPPORT ANALYST | LACMA, LOS ANGELES, CA | DECEMBER 2006 - PRESENT |<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Manage all stages of the software development lifecycle, including requirements gathering, development, implementation, maintenance, and support. Work closely with business stakeholders, leadership team and technology team to define all aspects of the technical product and provide regularly updates on the project  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Troubleshoot software and applications for all databases and applications, including the Financial Edge, the Raisers Edge, ADP, Enterprise, Retail Pro, Erply, Shopify, MultyMimsy, TMS Collections Management System, Unicorn, Tessitura, OCLC Connexion, Archivist Tools, Crystal Reports, Oracle, Microsoft SQL, SQL Server Reporting Services, SQL Integration Services, and SQL Server Management Studio  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Provide technical leadership or supervision for work involving complicated operating systems and related software, hardware, and servers, such as mainframes or mid-range servers supporting crucial applications in a high-availability environment  <br>
@@ -71,7 +71,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Act as a subject-matter expert for the network communication systems and security administration.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Consistently praised for the capacity to handle conflicting priorities under time constraints  <br>
 
-**INFORMATION SYSTEMS MANAGER | ICT COLLEGE, LOS ANGELES, CA | OCTOBER 2003 – DECEMBER 2006 |**
+**INFORMATION SYSTEMS MANAGER | ICT COLLEGE, LOS ANGELES, CA | OCTOBER 2003 – DECEMBER 2006 |<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Managed servers for applications including as DNS, DHCP, SQL, IIS, Apache, proxy servers, Terminal Services, Active Directory, Exchange, Oracle, maintained firewalls, switches, and routers  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Trained new hires on the functionality and use of software programs <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Managed backups and installations; developed new systems or repaired existing ones as necessary <br>
