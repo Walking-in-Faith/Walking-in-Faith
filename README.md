@@ -152,7 +152,10 @@
 
 
 **📪&nbsp;&nbsp; HOW TO REACH ME:**<br> 
+<!-----------------------------------------------------------------------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Call Me: **[818-975-0008]()<br>**
+---------------------------------------------------------------------------------------------->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️LinkedIn: **https://www.linkedin.com/in/kevin-babeshkov/**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️E-Mail: **kbabeshkov@gmail.com**<br> 
 <br><br>
 
