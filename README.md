@@ -33,7 +33,7 @@
 
 
 
-📜&nbsp;&nbsp;**MY TECHNICAL SKILLS:**<br>
+📜&nbsp;&nbsp;**CORE COMPETENCIES:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Project Management <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Application Optimization <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Operational Frameworks <br>
