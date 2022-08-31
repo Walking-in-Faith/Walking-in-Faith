@@ -67,7 +67,7 @@
 
 
 
-💠&nbsp;&nbsp;**EXPERTISE AND CORE COMPETENCIES**<br>
+💠&nbsp;&nbsp;**EXPERTISE AND CORE COMPETENCIES:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Active Listening:** Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Complex Problem Solving:** Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**Critical Thinking:** Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. <br>
@@ -115,7 +115,7 @@
 
 
 
-🎡&nbsp;&nbsp;**PROFESSIONAL CERTIFICATIONS**<br>
+🎡&nbsp;&nbsp;**PROFESSIONAL CERTIFICATIONS:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• CEH (Certified Ethical Hacker) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	CND (Certified Network Defender) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	CHFI (Computer Hacking Forensic Investigator) <br>
