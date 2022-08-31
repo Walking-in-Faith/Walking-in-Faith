@@ -52,6 +52,36 @@
 
 
 
+
+📋&nbsp;&nbsp;**SELECTED EXPERIENCE:**<br>
+**APPLICATIONS & DATA SUPPORT ANALYST | LACMA, LOS ANGELES, CA | DECEMBER 2006 - PRESENT |**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Manage all stages of the software development lifecycle, including requirements gathering, development, implementation, maintenance, and support. Work closely with business stakeholders, leadership team and technology team to define all aspects of the technical product and provide regularly updates on the project  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Troubleshoot software and applications for all databases and applications, including the Financial Edge, the Raisers Edge, ADP, Enterprise, Retail Pro, Erply, Shopify, MultyMimsy, TMS Collections Management System, Unicorn, Tessitura, OCLC Connexion, Archivist Tools, Crystal Reports, Oracle, Microsoft SQL, SQL Server Reporting Services, SQL Integration Services, and SQL Server Management Studio  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Provide technical leadership or supervision for work involving complicated operating systems and related software, hardware, and servers, such as mainframes or mid-range servers supporting crucial applications in a high-availability environment  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	In charge of all application software installed at the museum's development, implementation, maintenance, and support, including project management   <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Create cost analyses for projects and help with the budgeting procedures for the fiscal year; create and analyze documentation for databases and applications  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Carries out extremely complicated and specialized information systems analysis and programming activities and serves as a technical specialist for the creation or upkeep of one or more big systems  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Conduct extremely complicated and specialized information systems analysis and design activities, and provides technical leadership in application development, business process optimization, and IT strategic planning  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Manage systems administration, server administration, configuration, desktop maintenance support, IP allocation, DNS records, SSL certificates and internet/intranet infrastructure services  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Implemented and fully supported NFC (Near-Field Communication) technologies throughout box offices and museum stores during the COVID-19 pandemic  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Serve as the technical lead or consultant for complex systems development projects while supervising, mentoring, and training other technical personnel and lower level information systems analysts  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Charged with providing technical leadership for the thorough maintenance of intricate network and server operating system settings; train project and application teams on industry best practices for software design and implementation  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Perform a wide-range of network-related duties, including the design, implementation, and maintenance of complex networks; develop and interpret documentation supporting all applications and databases  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Completed all necessary tasks for databases that are supported by enterprise-level database management system (DBMS) software  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Act as a subject-matter expert for the network communication systems and security administration.  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Consistently praised for the capacity to handle conflicting priorities under time constraints  <br>
+
+**INFORMATION SYSTEMS MANAGER | ICT COLLEGE, LOS ANGELES, CA | OCTOBER 2003 – DECEMBER 2006 |**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Managed servers for applications including as DNS, DHCP, SQL, IIS, Apache, proxy servers, Terminal Services, Active Directory, Exchange, Oracle, maintained firewalls, switches, and routers  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Trained new hires on the functionality and use of software programs <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Managed backups and installations; developed new systems or repaired existing ones as necessary <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Upgraded computers and investigated network, hardware, and software problems <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Managed server maintenance of Linux and Windows network infrastructures <br>
+<br>
+
+
+
+
 📋&nbsp;&nbsp;**PROFESSIONAL CERTIFICATIONS**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• CEH (Certified Ethical Hacker) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	CND (Certified Network Defender) <br>
@@ -79,9 +109,11 @@
 
 
 
+
+
+
 **📪&nbsp;&nbsp; HOW TO REACH ME:**<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Facebook: **[kbabeshkov](https://www.facebook.com/kbabeshkov)<br>**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linkedin: **[kbabeshkov](https://www.linkedin.com/in/kbabeshkov/)<br>**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Call Me: **[818-975-0008]()<br>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️E-Mail: **kbabeshkov@gmail.com**<br> 
 <br><br>
 
