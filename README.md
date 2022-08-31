@@ -155,7 +155,7 @@
 <!-----------------------------------------------------------------------------------------
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Call Me: **[818-975-0008]()<br>**
 ---------------------------------------------------------------------------------------------->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️LinkedIn: **[https://www.linkedin.com/in/kevin-babeshkov/](kevin-babeshkov)**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️LinkedIn: **[dfasdfsdf]https://www.linkedin.com/in/kevin-babeshkov/()<BR>**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️E-Mail: **kbabeshkov@gmail.com**<br> 
 <br><br>
 
